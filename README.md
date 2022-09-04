@@ -4,7 +4,7 @@ Up until now I have been self teaching myself ‘web dev’. However, recently I
 
 Currently working through the full stack online course [The Odin Project](https://www.theodinproject.com/). This has taught me lots of new skills. The main one, being able to research for myself effectively to solve a problem.
 
-This README will act as a somewhat documentation for my journey of becoming a Full Stack Web Developer and further career into the field tech.
+This README will act as a somewhat documentation for my journey of becoming a Full Stack Web Developer and further career into the field of tech.
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
