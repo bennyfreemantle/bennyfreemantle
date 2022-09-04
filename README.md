@@ -2,7 +2,7 @@
 
 Up until now I have been self teaching myself ‘web dev’. However, recently I have had the privilege of being accepted to join a 16 week intensive bootcamp to pursue my aspirations of becoming a Full Stack Web Developer!
 
-Currently working through the full stack online course [The Odin Project](https://www.theodinproject.com/). This has taught me lots of new skills. The main one, being able to research for myself effectively to solve a problem.
+Currently working through the full stack online course [The Odin Project](https://www.theodinproject.com/). This has helped me reinforce the basics as well as guiding me through to learn lots of new skills.
 
 This README will act as a somewhat documentation for my journey of becoming a Full Stack Web Developer and further career into the field of tech.
 
