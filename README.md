@@ -22,8 +22,10 @@ This README will act as a somewhat documentation for my journey of becoming a Fu
 </p>
 
 Credit: [Ben Freemantle](https://github.com/bennyfreemantle)
-<a target="_blank" href="https://icons8.com/icon/X8g2OZMx4ET5/linkedin">LinkedIn</a> icons by <a target="_blank" href="https://icons8.com">Icons8</a>
+
 Last Edited on: 04/09/2022
+
+Icons by <a target="_blank" href="https://icons8.com">Icons8</a>
 
 <!--
 **bennyfreemantle/bennyfreemantle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
