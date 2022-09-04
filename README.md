@@ -1,6 +1,6 @@
 ### Hi there, I’m Ben 👋
 
-I am self teaching myself ‘web dev’. I have had the privilege of being accepted to join a 16 week intensive bootcamp to pursue my aspirations of becoming a Developer.
+Up untill now I have been self teaching myself ‘web dev’. However, I have had the privilege of being accepted to join a 16 week intensive bootcamp to pursue my aspirations of becoming a Developer.
 
 Currently working through the full stack online course called [The Odin Project](https://www.theodinproject.com/). This has taught me lots of new skills. The main one, being able to research for myself effectively to solve a problem.
 
