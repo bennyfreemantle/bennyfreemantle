@@ -4,6 +4,7 @@ Up untill now I have been self teaching myself ‘web dev’. However, recently 
 
 Currently working through the full stack online course [The Odin Project](https://www.theodinproject.com/). This has taught me lots of new skills. The main one, being able to research for myself effectively to solve a problem.
 
+This README will act as a some what documentation for my journey of becoming a Full Stack Web Developer and further career into the field tech.
 
 <!--
 **bennyfreemantle/bennyfreemantle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
