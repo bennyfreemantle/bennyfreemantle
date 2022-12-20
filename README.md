@@ -12,12 +12,8 @@ This README will act as a somewhat documentation for my journey of becoming a Fu
     <div align="center" class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;" href="https://www.linkedin.com/in/ben-freemantle/">
         <img src="https://img.icons8.com/dusk/64/000000/linkedin--v1.png"></a>
-        <a style="margin-left: 10px;" href="https://github.com/bennyfreemantle">
-        <img src="https://img.icons8.com/dusk/64/000000/github.png"></a>
         <a style="margin-left: 10px;" href="https://dev.to/benfreemantle">
         <img src="https://img.icons8.com/windows/64/000000/dev.png"></a>
-        <a style="margin-left: 10px;" href="https://twitter.com/bennyfreemantle">
-        <img src="https://img.icons8.com/dusk/64/000000/twitter-squared--v1.png" ></a>
     </div>
 </p>
 
