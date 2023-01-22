@@ -1,24 +1,31 @@
-### Hi there, I’m Ben 👋
+### Hi there, I'm Ben 👋 
 
-Up until now I have been self teaching myself ‘web dev’. However, recently I have had the privilege of being accepted to join a 16 week intensive bootcamp to pursue my aspirations of becoming a Full Stack Web Developer!
+I am a Junior Web Developer currently enrolled in a 16-week intensive bootcamp at the School of Code, working towards my goal of becoming a Full Stack Web Developer. I possess a strong passion for web development and have been honing my skills through self-study, personal projects, as well as through the bootcamp. I am eager to take my skills to the next level, and I am excited to learn and grow in a professional setting.
 
-Currently working through the full stack online course [The Odin Project](https://www.theodinproject.com/). This has helped me reinforce the basics as well as guiding me through to learn lots of new skills.
+You can check out my projects on [GitHub](https://github.com/bennyfreemantle) and connect with me on [LinkedIn](https://www.linkedin.com/in/ben-freemantle/) and [Twitter](https://twitter.com/bennyfreemantle).
 
-This README will act as a somewhat documentation for my journey of becoming a Full Stack Web Developer and beyond.
+:rocket: I am always looking for new opportunities to collaborate & learn from other developers, don't hesitate to reach out!
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+:computer: Technologies I Know:
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Node.js / Express
+- Postgresql
+- Supabase
 
-<p align="center">
-    <div align="center" class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;" href="https://www.linkedin.com/in/ben-freemantle/">
-        <img src="https://img.icons8.com/dusk/64/000000/linkedin--v1.png"></a>
-        <a style="margin-left: 10px;" href="https://dev.to/benfreemantle">
-        <img src="https://img.icons8.com/windows/64/000000/dev.png"></a>
-    </div>
-</p>
+:telescope: I am currently focused on:
+- Full Stack Web Development
+- Agile development methodologies
+- Developing & Designing mobile friendly web applications
 
-Credit: [Ben Freemantle](https://github.com/bennyfreemantle)
+:books: I am currently studying:
+- Continious Next & React development
+- BaaS solutions like Supabase
 
-Last Edited on: 04/09/2022
+:crystal_ball: Future Goals / Study
+- AWS / Cloud computing
+- React Native / Flutter - Building mobile / desktop applications
 
-Icons by <a target="_blank" href="https://icons8.com">Icons8</a>
+Last Edited on: 22/01/2022
