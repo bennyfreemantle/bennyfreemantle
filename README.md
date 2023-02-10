@@ -1,10 +1,8 @@
 ### Hi there, I'm Ben 👋 
 
-I am a Junior Web Developer currently enrolled in a 16-week intensive bootcamp at the School of Code, working towards my goal of becoming a Full Stack Web Developer. I possess a strong passion for web development and have been honing my skills through self-study, personal projects, as well as through the bootcamp. I am eager to take my skills to the next level, and I am excited to learn and grow in a professional setting.
+Tech enthusiast and recent graduate of the School of Code bootcamp, I'm on a mission to bring my ideas and creativity to life on the web. With a passion for coding and a thirst for knowledge, I've honed my skills in HTML, CSS, JavaScript, React, and Node.js through self-study, personal projects, and a 16-week intensive bootcamp. I'm a quick learner, a problem solver, and always up for a challenge. You'll most likely find me experimenting with new technologies or working on exciting side projects. Check out my Github repos for a sneak peek of my work.
 
-You can check out my projects on [GitHub](https://github.com/bennyfreemantle) and connect with me on [LinkedIn](https://www.linkedin.com/in/ben-freemantle/) and [Twitter](https://twitter.com/bennyfreemantle).
-
-:rocket: I am always looking for new opportunities to collaborate & learn from other developers, don't hesitate to reach out!
+You can check out my [Portfolio](https://bennyfreemantle.netlify.app/). My projects on [GitHub](https://github.com/bennyfreemantle). And to connect with me on [LinkedIn](https://www.linkedin.com/in/ben-freemantle/) and [Twitter](https://twitter.com/bennyfreemantle) As I'm always looking for new opportunities to collaborate & learn from other developers, don't hesitate to reach out!
 
 :computer: Technologies I Know:
 - React
@@ -28,4 +26,4 @@ You can check out my projects on [GitHub](https://github.com/bennyfreemantle) an
 - AWS / Cloud computing
 - React Native / Flutter - Building mobile / desktop applications
 
-Last Edited on: 22/01/2022
+Last Edited on: 10/02/2022
